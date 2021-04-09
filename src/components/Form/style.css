@@ -1,0 +1,29 @@
+.form_cont{
+    margin: 1vw;
+}
+
+.input_cont{
+    color: #0bbfe3;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    padding: 1vw;
+}
+
+.button_style{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid #0bbfe3;
+    margin:0 1vw;
+    border-radius:0.25em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#0bbfe3;
+    text-align:center;
+    transition: all 0.2s;
+    }
+.button_style:hover{
+    color:#000000;
+    background-color:#FFFFFF;
+}
